@@ -11,6 +11,11 @@ document.addEventListener('DOMContentLoaded', () => {
     const inprogressList = document.getElementById('inprogress-list');
     const doneList = document.getElementById('done-list');
 
+    const todoList = document.getElementById('todo-list');
+    const inprogressList = document.getElementById('inprogress-list');
+    const doneList = document.getElementById('done-list');
+
+
     const modal = document.getElementById('taskModel'); 
     const openBtn = document.getElementById('openModalBtn');
     const closeBtn = document.getElementById('closeModalBtn');
